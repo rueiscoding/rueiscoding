@@ -6,4 +6,4 @@ Right now, I’m building **Lacunae**, a project that blends ancient Greek, tran
 
 I’m open to collaborating, whether or not you have a tech background. Much of my work plays with speculative design, language, experimental storytelling... there’s always more to learn and I’m looking to learn from people like you :)
 
-You can reach me at **compiledbyrue@proton.me**
+You can reach me at **rue.tripathy@gmail.com**
